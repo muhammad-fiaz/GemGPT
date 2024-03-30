@@ -14,6 +14,7 @@
 [![Forks](https://img.shields.io/github/forks/muhammad-fiaz/gemgpt?style=social)](https://github.com/muhammad-fiaz/gemgpt/network/members)
 [![Stars](https://img.shields.io/github/stars/muhammad-fiaz/gemgpt?style=social)](https://github.com/muhammad-fiaz/gemgpt/stargazers)
 [![Watchers](https://img.shields.io/github/watchers/muhammad-fiaz/gemgpt?style=social)](https://github.com/muhammad-fiaz/gemgpt/watchers)
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-yellow)]([https://huggingface.co/spaces/guoyww/AnimateDiff](https://huggingface.co/muhammadfiaz/gemgpt))
 
 </div>
 
