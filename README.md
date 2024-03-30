@@ -21,6 +21,18 @@ GemGPT is a project that leverages the Gemma model published by Google to create
 
 > Don't forget to star ⭐ and fork 🍴 the repository if you find GemGPT useful!
 
+## Table of Contents
+
+1. [Overview](#)
+2. [Features](#features)
+3. [Getting Started](#getting-started)
+4. [Technology Stack](#technology-stack)
+5. [Contributing](#contributing)
+6. [Code of Conduct](#code-of-conduct)
+7. [Support](#support)
+8. [Acknowledgements](#acknowledgements)
+9. [License](#license)
+
 ## Features
 
 - Utilizes the Gemma model for natural language processing tasks.
@@ -89,3 +101,15 @@ GemGPT is built on top of the Gemma model published by Google. We would like to 
 ## License
 
 GemGPT is licensed under the Apache License 2.0. See the [LICENSE](./LICENSE) file for more details.
+
+```bibtex
+@software{Muhammad_Fiaz_GemGPT_2024,
+  author = {{Muhammad Fiaz}},
+  license = {Apache-2.0},
+  month = mar,
+  title = {{GemGPT}},
+  url = {https://github.com/muhammad-fiaz/GemGPT},
+  version = {0.0.0},
+  year = {2024}
+}
+
