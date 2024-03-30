@@ -30,7 +30,7 @@ with gr.Blocks(theme=gr.themes.Soft(), title="GemGPT") as app:#head="<link rel='
     with gr.Row():
         gr.Markdown("Input your Prompt and click Generate to get a response.")
     with gr.Row():
-        inputs = gr.Textbox(lines=2, label="Input", placeholder="Type here")
+        inputs = gr.Textbox(lines=2, label="Prompt", placeholder="Type here")
     with gr.Row():
         generate = gr.Button("Generate")
     with gr.Row():
