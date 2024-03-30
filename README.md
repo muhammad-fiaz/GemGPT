@@ -26,6 +26,7 @@ GemGPT is a project that leverages the Gemma model published by Google to create
 
 - [Overview](#)
 - [Features](#features)
+- [setup](#setup)
 - [Getting Started](#getting-started)
 - [Technology Stack](#technology-stack)
 - [Contributing](#contributing)
@@ -40,6 +41,23 @@ GemGPT is a project that leverages the Gemma model published by Google to create
 - Utilizes the Gemma model for natural language processing tasks.
 - Provides an easy-to-use interface for integrating Gemma with AI applications.
 - Offers advanced features for text generation, sentiment analysis, and more.
+
+## Setup
+
+To use a model from Hugging Face Hub, you need to first install the transformers library and then use the CLI to log in to the Hugging Face Hub.
+
+Install the transformers library:
+
+```bash
+pip install transformers
+```
+
+Login to the Hugging Face Hub using the CLI:
+
+```bash
+transformers-cli login
+```
+After that, you need to auth using your login token. for more info checkout:- [https://huggingface.co/docs/huggingface_hub/quick-start](https://huggingface.co/docs/huggingface_hub/quick-start)
 
 ## Getting Started
 
