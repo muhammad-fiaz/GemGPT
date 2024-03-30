@@ -3,3 +3,4 @@ transformers~=4.38.1
 gradio~=4.24.0
 accelerate~=0.28.0
 logly~=0.0.6
+bitsandbytes
