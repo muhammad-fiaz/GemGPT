@@ -57,12 +57,12 @@ To use GemGpt on Colab or Jupyter Notebook, you can use the following code:
 
 GemGPT is built using the following technologies:
 
-Python: Programming language used for the core implementation.
-PyTorch: Deep learning framework used for training and inference.
-Gradio: Web-based UI library used for creating the user interface.
-Transformers: Library used for working with pre-trained language models.
-Hugging Face: Platform used for sharing and downloading pre-trained models.
-Logly: Logging library used for tracking and monitoring the application.
+- **Python**: Programming language used for the core implementation.
+- **PyTorch**: Deep learning framework used for training and inference.
+- **Gradio**: Web-based UI library used for creating the user interface.
+- **Transformers**: Library used for working with pre-trained language models.
+- **Hugging Face**: Platform used for sharing and downloading pre-trained models.
+- **Logly**: Logging library used for tracking and monitoring the application.
 
 
 ## Contributing
