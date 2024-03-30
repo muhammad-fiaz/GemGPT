@@ -5,7 +5,6 @@ authors:
   - family-names: "Muhammad"
     given-names: "Fiaz"
   - name: "Muhammad Fiaz"
-  - user-name:"muhammad-fiaz"
 version: 0.0.0
 date-released: 2024-03-25
 license: "Apache-2.0"
