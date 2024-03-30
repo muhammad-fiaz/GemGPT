@@ -2,7 +2,6 @@
     
 ![Preview ](https://github.com/muhammad-fiaz/GemGPT/assets/75434191/9c6566ca-db7f-49e2-9ddd-0781edea042f)
 
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/muhammad-fiaz/gemgpt/CI)](https://github.com/muhammad-fiaz/gemgpt/actions)
 [![License](https://img.shields.io/github/license/muhammad-fiaz/gemgpt)](./LICENSE)
 [![Version](https://img.shields.io/github/v/release/muhammad-fiaz/gemgpt)](https://github.com/muhammad-fiaz/gemgpt/releases)
 [![Code Size](https://img.shields.io/github/languages/code-size/muhammad-fiaz/gemgpt)](https://github.com/muhammad-fiaz/gemgpt)
