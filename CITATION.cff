@@ -2,8 +2,6 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 title: "GemGPT"
 authors:
-  - family-names: "Muhammad"
-    given-names: "Fiaz"
   - name: "Muhammad Fiaz"
 version: 0.0.0
 date-released: 2024-03-25
