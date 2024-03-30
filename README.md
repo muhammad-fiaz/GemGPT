@@ -1,4 +1,6 @@
 <div style="text-align: center;">
+    
+![Preview ](https://github.com/muhammad-fiaz/GemGPT/assets/75434191/9c6566ca-db7f-49e2-9ddd-0781edea042f)
 
 [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/muhammad-fiaz/gemgpt/CI)](https://github.com/muhammad-fiaz/gemgpt/actions)
 [![License](https://img.shields.io/github/license/muhammad-fiaz/gemgpt)](./LICENSE)
@@ -16,7 +18,7 @@
 
 </div>
 
-GemGPT is a project that leverages the Gemma model published by Google to create powerful natural language processing applications using the GPT architecture. This repository contains the codebase for GemGPT, which aims to provide a user-friendly interface for utilizing the Gemma model in various AI applications.
+GemGPT is a project that leverages the Gemma model published by Google to create powerful natural language processing applications using the GPT architecture. This repository contains the codebase for GemGPT, which aims to provide a user-friendly interface for fine-tuning the Gemma model for 2b and 7b variants.
 
 > Don't forget to star ⭐ and fork 🍴 the repository if you find GemGPT useful!
 
