@@ -24,15 +24,16 @@ GemGPT is a project that leverages the Gemma model published by Google to create
 
 ## Table of Contents
 
-1. [Overview](#)
-2. [Features](#features)
-3. [Getting Started](#getting-started)
-4. [Technology Stack](#technology-stack)
-5. [Contributing](#contributing)
-6. [Code of Conduct](#code-of-conduct)
-7. [Support](#support)
-8. [Acknowledgements](#acknowledgements)
-9. [License](#license)
+- [Overview](#)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Technology Stack](#technology-stack)
+- [Contributing](#contributing)
+- [Code of Conduct](#code-of-conduct)
+- [Support](#support)
+- [Acknowledgements](#acknowledgements)
+- [License](#license)
+
 
 ## Features
 
