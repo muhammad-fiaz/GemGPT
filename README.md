@@ -1,6 +1,6 @@
 <div style="text-align: center;">
     
-![Preview ](https://github.com/muhammad-fiaz/GemGPT/assets/75434191/9c6566ca-db7f-49e2-9ddd-0781edea042f)
+![Preview](https://github.com/muhammad-fiaz/GemGPT/assets/75434191/9c6566ca-db7f-49e2-9ddd-0781edea042f)
 
 [![License](https://img.shields.io/github/license/muhammad-fiaz/gemgpt)](./LICENSE)
 [![Version](https://img.shields.io/github/v/release/muhammad-fiaz/gemgpt)](https://github.com/muhammad-fiaz/gemgpt/releases)
@@ -116,11 +116,12 @@ _Support the Project by Becoming a Sponsor on GitHub_
 
 ## Acknowledgements
 
-GemGPT is built on top of the Gemma model published by Google. We would like to thank the authors of the Gemma model for their work and for making it available to the public.
+GemGPT is built on top of the Gemma model published by Google. We would like to thank the authors of the Gemma model for their work and for making it available as open-source.
 
 ## License
 
 GemGPT is licensed under the Apache License 2.0. See the [LICENSE](./LICENSE) file for more details.
+
 
 ```bibtex
 @software{Muhammad_Fiaz_GemGPT_2024,
