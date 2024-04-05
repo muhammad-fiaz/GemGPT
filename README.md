@@ -84,7 +84,9 @@ To use GemGpt on Colab or Jupyter Notebook, you can use the following code:
 !python -m pip install -r requirements.txt
 !python launch.py --share
 ```
+You can try out a demo of GemGPT on Hugging Face Spaces, but for optimal performance, we recommend running it locally with a CPU or GPU.
 
+[![Hugging Face Spaces Demo](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-yellow)](https://huggingface.co/spaces/muhammadfiaz/GemGPT)
 
 ## Technology Stack
 
