@@ -8,6 +8,10 @@ import gradio as gr
 if torch.cuda.is_available():
     device = "cuda"
     logly.info("CUDA is available and using GPU instead.")
+elif torch.xpu.is_available():
+    device = "xpu"
+    logly.info("XPU is available and using XPU instead.")
+    logly.warn("this feature is not yet supported. Please use a GPU or CPU instead!.")
 else:
     device = "cpu"
     logly.info("CUDA is not available and using CPU instead.")
