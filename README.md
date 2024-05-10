@@ -20,7 +20,7 @@
 
 GemGPT is a project that leverages the Gemma model published by Google to create powerful natural language processing applications using the GPT architecture. This repository contains the codebase for GemGPT, which aims to provide a user-friendly interface for fine-tuning the Gemma model for 2b and 7b variants.
 
-> Don't forget to star ⭐ and fork 🍴 the repository if you find GemGPT useful!
+> Don't forget to star ⭐ if you find GemGPT useful! and fork 🍴 the repository to contribute it ❤️
 
 ## Table of Contents
 
