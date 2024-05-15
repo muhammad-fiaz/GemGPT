@@ -1,6 +1,6 @@
 <div style="text-align: center;">
     
-![Preview](https://github.com/muhammad-fiaz/GemGPT/assets/75434191/9c6566ca-db7f-49e2-9ddd-0781edea042f)
+![Preview](https://github.com/muhammad-fiaz/GemGPT/assets/75434191/7d4cf897-0496-470c-87aa-90a347b64536)
 
 [![License](https://img.shields.io/github/license/muhammad-fiaz/gemgpt)](./LICENSE)
 [![Version](https://img.shields.io/github/v/release/muhammad-fiaz/gemgpt)](https://github.com/muhammad-fiaz/gemgpt/releases)
