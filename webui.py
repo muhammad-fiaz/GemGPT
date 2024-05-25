@@ -1,3 +1,10 @@
+"""
+This Part of the code is responsible for the web interface of the GemGPT model.
+It uses the Gradio library to create a simple web interface that allows users to interact with the model.
+The interface allows users to select the model, device, and input prompt, and then generates a response from the model.
+The interface also includes advanced options such as adjusting the temperature, top-k, and top-p parameters, as well as quantization.
+
+"""
 import torch
 
 from modules.log import logly
