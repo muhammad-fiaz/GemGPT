@@ -15,6 +15,13 @@
 [![Stars](https://img.shields.io/github/stars/muhammad-fiaz/gemgpt?style=social)](https://github.com/muhammad-fiaz/gemgpt/stargazers)
 [![Watchers](https://img.shields.io/github/watchers/muhammad-fiaz/gemgpt?style=social)](https://github.com/muhammad-fiaz/gemgpt/watchers)
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-yellow)](https://huggingface.co/spaces/muhammadfiaz/GemGPT)
+<a href="https://discord.gg/uRkZ5cHf" target="_blank">
+  <img
+    src="https://dcbadge.limes.pink/api/server/https://discord.gg/uRkZ5cHf?style=shield"
+    alt="discord invite"
+  />
+</a>
+
 
 </div>
 
